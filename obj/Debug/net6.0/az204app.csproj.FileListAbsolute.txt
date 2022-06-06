@@ -1,0 +1,17 @@
+C:\Users\boaxyl\az204app\bin\Debug\net6.0\az204app.exe
+C:\Users\boaxyl\az204app\bin\Debug\net6.0\az204app.deps.json
+C:\Users\boaxyl\az204app\bin\Debug\net6.0\az204app.runtimeconfig.json
+C:\Users\boaxyl\az204app\bin\Debug\net6.0\az204app.dll
+C:\Users\boaxyl\az204app\bin\Debug\net6.0\az204app.pdb
+C:\Users\boaxyl\az204app\obj\Debug\net6.0\az204app.csproj.AssemblyReference.cache
+C:\Users\boaxyl\az204app\obj\Debug\net6.0\az204app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boaxyl\az204app\obj\Debug\net6.0\az204app.AssemblyInfoInputs.cache
+C:\Users\boaxyl\az204app\obj\Debug\net6.0\az204app.AssemblyInfo.cs
+C:\Users\boaxyl\az204app\obj\Debug\net6.0\az204app.csproj.CoreCompileInputs.cache
+C:\Users\boaxyl\az204app\obj\Debug\net6.0\az204app.dll
+C:\Users\boaxyl\az204app\obj\Debug\net6.0\refint\az204app.dll
+C:\Users\boaxyl\az204app\obj\Debug\net6.0\az204app.pdb
+C:\Users\boaxyl\az204app\obj\Debug\net6.0\az204app.genruntimeconfig.cache
+C:\Users\boaxyl\az204app\obj\Debug\net6.0\ref\az204app.dll
+C:\Users\boaxyl\az204app\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\boaxyl\az204app\obj\Debug\net6.0\az204app.csproj.CopyComplete

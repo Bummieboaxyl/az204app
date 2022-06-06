@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tBV2Gt1ifujP0/4j9oIR1rncUvbcxTr1cjsE/iNxYolQujfRy2AvwsBKLmqnCr/SIzmbGnbHsTIIokL3z/0e1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\boaxyl\\az204app\\az204app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boaxyl\\.nuget\\packages\\microsoft.identity.client\\4.44.0\\microsoft.identity.client.4.44.0.nupkg.sha512"
+  ],
+  "logs": []
+}
